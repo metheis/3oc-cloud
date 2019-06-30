@@ -1,10 +1,10 @@
-## 3TC Cloud
+## 3OC Cloud
 
 ###### The front page website for 3TC Cloud services.
 
 **Features**
 
-3TC offers a variety of services. All available free of charge to family users, with privacy and heightened security as the highest priority. Componets include:
+3OC offers a variety of services. All available free of charge to family users, with privacy and heightened security as the highest priority. Componets include:
 - Cloud Storage
   - End to End Encrpytion
   - Automated, Real Time Sync
